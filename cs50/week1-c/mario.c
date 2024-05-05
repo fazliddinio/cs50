@@ -19,3 +19,5 @@ int main(void) {
 }
 
 // loop patterns
+
+// TODO: add right side pyramid
