@@ -6,3 +6,5 @@ int main(void) {
   // TODO: Luhn algorithm
   printf("INVALID\n");
 }
+
+// Luhn: multiply every other digit by 2
