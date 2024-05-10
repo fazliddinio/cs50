@@ -8,3 +8,5 @@ int main(void) {
 }
 
 // Luhn: multiply every other digit by 2
+
+// checksum working
