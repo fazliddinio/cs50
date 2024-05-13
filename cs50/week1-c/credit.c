@@ -50,3 +50,5 @@ int main(void) {
 }
 
 // card formats
+
+// fixed
