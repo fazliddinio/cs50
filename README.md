@@ -1,3 +1,4 @@
 # CS50
 
-My solutions for Harvard CS50 course
+My solutions for Harvard CS50 course.
+Learning C programming fundamentals.
