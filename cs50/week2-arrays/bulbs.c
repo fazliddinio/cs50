@@ -15,3 +15,5 @@ void print_bulb(int bit) {
   if (bit == 0) printf("0");
   else printf("1");
 }
+
+// binary conversion logic
