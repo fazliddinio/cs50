@@ -11,3 +11,5 @@ int main(int argc, string argv[]) {
   // TODO: validate key and encrypt
   return 0;
 }
+
+// validate argv[1] is numeric
