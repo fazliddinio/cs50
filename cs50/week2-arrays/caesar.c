@@ -13,3 +13,5 @@ int main(int argc, string argv[]) {
 }
 
 // validate argv[1] is numeric
+
+// lowercase working
