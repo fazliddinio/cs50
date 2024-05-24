@@ -27,3 +27,5 @@ int count_words(string text) {
     if (text[i] == ' ') count++;
   return count;
 }
+
+// count_sentences added
