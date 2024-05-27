@@ -32,3 +32,5 @@ int main(int argc, string argv[]) {
   printf("\n");
   return 0;
 }
+
+// week2 done
