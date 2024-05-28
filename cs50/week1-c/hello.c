@@ -5,3 +5,5 @@ int main(void)
     printf("hello, world\n");
     return 0;
 }
+
+// practice argc argv
