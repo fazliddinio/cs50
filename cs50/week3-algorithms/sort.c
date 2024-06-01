@@ -41,3 +41,5 @@ void swap(int *a, int *b) {
   *a = *b;
   *b = temp;
 }
+
+// O(n^2) average and worst
