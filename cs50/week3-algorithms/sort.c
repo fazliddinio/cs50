@@ -43,3 +43,5 @@ void swap(int *a, int *b) {
 }
 
 // O(n^2) average and worst
+
+// complexity notes
