@@ -11,3 +11,5 @@ int main(void) {
   // TODO: build list from argv
   return 0;
 }
+
+// insert at head
