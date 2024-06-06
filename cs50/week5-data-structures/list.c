@@ -13,3 +13,5 @@ int main(void) {
 }
 
 // insert at head
+
+// print and free
