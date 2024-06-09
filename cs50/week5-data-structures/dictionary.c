@@ -17,3 +17,5 @@ unsigned int word_count = 0;
 unsigned int hash(const char *word) { return toupper(word[0]) - 'A'; }
 
 // TODO: load, check, size, unload
+
+// load implemented
