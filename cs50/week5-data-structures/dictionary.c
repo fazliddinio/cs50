@@ -21,3 +21,5 @@ unsigned int hash(const char *word) { return toupper(word[0]) - 'A'; }
 // load implemented
 
 // check working
+
+// all functions done
