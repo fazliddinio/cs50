@@ -16,10 +16,55 @@ unsigned int word_count = 0;
 
 unsigned int hash(const char *word) { return toupper(word[0]) - 'A'; }
 
-// TODO: load, check, size, unload
+bool load(const char *dictionary) {
+  FILE *file = fopen(dictionary, "r");
+  if (file == NULL) {
+    return false;
+  }
 
-// load implemented
+  char word[46];
+  while (fscanf(file, "%s", word) != EOF) {
+    node *n = malloc(sizeof(node));
+    if (n == NULL) {
+      return false;
+    }
 
-// check working
+    strcpy(n->word, word);
+    unsigned int index = hash(word);
+    n->next = table[index];
+    table[index] = n;
+    word_count++;
+  }
 
-// all functions done
+  fclose(file);
+  return true;
+}
+
+bool check(const char *word) {
+  char lower[46];
+  for (int i = 0, n = strlen(word); i <= n; i++) {
+    lower[i] = tolower(word[i]);
+  }
+
+  unsigned int index = hash(lower);
+  for (node *ptr = table[index]; ptr != NULL; ptr = ptr->next) {
+    if (strcmp(lower, ptr->word) == 0) {
+      return true;
+    }
+  }
+  return false;
+}
+
+unsigned int size(void) { return word_count; }
+
+bool unload(void) {
+  for (int i = 0; i < HASH_SIZE; i++) {
+    node *ptr = table[i];
+    while (ptr != NULL) {
+      node *tmp = ptr;
+      ptr = ptr->next;
+      free(tmp);
+    }
+  }
+  return true;
+}
