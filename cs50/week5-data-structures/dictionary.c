@@ -74,3 +74,5 @@ bool unload(void) {
 // memory clean
 
 // review done
+
+// study notes
