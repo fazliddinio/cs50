@@ -33,3 +33,5 @@ if __name__ == "__main__":
     main()
 
 # python vs C
+
+# much cleaner than C version
