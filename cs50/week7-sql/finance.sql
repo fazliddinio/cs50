@@ -3,3 +3,5 @@ CREATE TABLE users (
     username TEXT NOT NULL UNIQUE,
     hash TEXT NOT NULL
 );
+
+-- stocks and transactions tables
