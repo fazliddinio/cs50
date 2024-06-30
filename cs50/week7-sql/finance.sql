@@ -25,3 +25,5 @@ CREATE TABLE transactions (
 
 CREATE INDEX idx_user_stocks ON stocks(user_id);
 CREATE INDEX idx_user_transactions ON transactions(user_id);
+
+-- practice queries
