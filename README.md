@@ -1,5 +1,8 @@
-# CS50
+# CS50 + Python Learning
 
-My solutions for Harvard CS50 course.
+My solutions for CS50 course and Python practice exercises.
 
-Currently on Week 6 - Python!
+## Structure
+
+- `cs50/` - CS50 problem sets (C, Python, SQL)
+- `python/` - Python learning exercises
