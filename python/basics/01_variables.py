@@ -9,3 +9,5 @@ print(f"name is {type(name)}")
 print(f"age is {type(age)}")
 
 # string methods added
+
+# list operations
