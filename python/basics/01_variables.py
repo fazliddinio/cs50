@@ -11,3 +11,5 @@ print(f"age is {type(age)}")
 # string methods added
 
 # list operations
+
+# dict operations
