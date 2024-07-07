@@ -63,3 +63,5 @@ print(f"a or b: {a or b}")
 print(f"not a: {not a}")
 
 # mutability
+
+# practice done
