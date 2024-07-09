@@ -8,3 +8,5 @@ def check_grade(score):
 
 age = 20
 status = "adult" if age >= 18 else "minor"
+
+# loops added
