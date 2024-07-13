@@ -89,3 +89,5 @@ print(http_status(200))
 print(http_status(404))
 
 # fizzbuzz
+
+# exercises done
