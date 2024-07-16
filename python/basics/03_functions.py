@@ -6,3 +6,5 @@ def greet(name):
 
 def greet_with_title(name, title="Mr."):
     return f"Hello, {title} {name}!"
+
+# args kwargs
