@@ -10,3 +10,5 @@ def greet_with_title(name, title="Mr."):
 # args kwargs
 
 # lambda map filter
+
+# reduce imported from functools
