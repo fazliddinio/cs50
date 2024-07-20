@@ -97,3 +97,5 @@ if __name__ == "__main__":
     print(build_profile(name="John", age=30, city="NYC"))
     print(f"5! = {factorial(5)}")
     print(f"Fib(10) = {fibonacci(10)}")
+
+# recursive vs iterative
