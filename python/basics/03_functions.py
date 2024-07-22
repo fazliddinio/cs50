@@ -101,3 +101,5 @@ if __name__ == "__main__":
 # recursive vs iterative
 
 # challenges done
+
+# LEGB scope rule
