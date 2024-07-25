@@ -8,3 +8,5 @@ def safe_divide(a, b):
         return None
 
 # custom exceptions
+
+# context managers
