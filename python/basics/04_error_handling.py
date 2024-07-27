@@ -175,3 +175,5 @@ if __name__ == "__main__":
     print("\n=== Assertions ===")
     print(f"$100 with 20% off: ${calculate_discount(100, 20)}")
     print(f"$50 with 10% off: ${calculate_discount(50, 10)}")
+
+# EAFP LBYL
