@@ -9,3 +9,5 @@ def write_text_file(filename, content):
 def read_text_file(filename):
     with open(filename, "r") as f:
         return f.read()
+
+# json csv added
