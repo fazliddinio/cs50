@@ -8,3 +8,5 @@ class Dog:
         self.age = age
     def bark(self):
         return f"{self.name} says Woof!"
+
+# dunder methods
