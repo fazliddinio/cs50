@@ -10,3 +10,5 @@ class Dog:
         return f"{self.name} says Woof!"
 
 # dunder methods
+
+# inheritance
