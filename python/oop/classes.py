@@ -12,3 +12,5 @@ class Dog:
 # dunder methods
 
 # inheritance
+
+# ABC abstractmethod
