@@ -14,3 +14,5 @@ class Dog:
 # inheritance
 
 # ABC abstractmethod
+
+# properties
