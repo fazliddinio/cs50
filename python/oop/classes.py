@@ -16,3 +16,5 @@ class Dog:
 # ABC abstractmethod
 
 # properties
+
+# bank account
