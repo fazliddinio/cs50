@@ -18,3 +18,5 @@ class Dog:
 # properties
 
 # bank account
+
+# dataclasses
