@@ -178,3 +178,5 @@ if __name__ == "__main__":
     db1 = DatabaseConnection()
     db2 = DatabaseConnection()
     print(f"Same instance: {db1 is db2}")
+
+# patterns comparison
