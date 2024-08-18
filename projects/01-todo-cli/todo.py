@@ -17,3 +17,5 @@ def add_todo(title):
     todos.append({"id": len(todos)+1, "title": title, "completed": False})
     save_todos(todos)
     print(f"Added: {title}")
+
+# list complete
