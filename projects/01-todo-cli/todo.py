@@ -19,3 +19,5 @@ def add_todo(title):
     print(f"Added: {title}")
 
 # list complete
+
+# delete clear
