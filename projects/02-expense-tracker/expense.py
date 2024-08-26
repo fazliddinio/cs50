@@ -14,3 +14,5 @@ def add_expense(amount, category):
     expenses = load_expenses()
     expenses.append({"amount": amount, "category": category, "date": date.today().isoformat()})
     print(f"Added: ${amount:.2f} for {category}")
+
+# list summary
