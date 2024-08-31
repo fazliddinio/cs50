@@ -7,3 +7,8 @@ My solutions for CS50 course and Python practice exercises.
 - `cs50/` - CS50 problem sets (C, Python, SQL)
 - `python/` - Python learning exercises
 - `projects/` - Hands-on CLI projects
+
+## Projects
+
+1. Todo CLI
+2. Expense Tracker
