@@ -9,3 +9,5 @@ def generate_password(length=16):
 
 if __name__ == "__main__":
     print(generate_password())
+
+# char type options
