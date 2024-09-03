@@ -11,3 +11,5 @@ if __name__ == "__main__":
     print(generate_password())
 
 # char type options
+
+# passphrase
