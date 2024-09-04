@@ -13,3 +13,5 @@ if __name__ == "__main__":
 # char type options
 
 # passphrase
+
+# strength checker
