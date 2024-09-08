@@ -15,3 +15,5 @@ if __name__ == "__main__":
     display_weather(get_weather_demo(city))
 
 # API integration
+
+# weather icons
