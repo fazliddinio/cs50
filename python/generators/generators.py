@@ -12,3 +12,5 @@ for n in count_up_to(5):
     print(n)
 
 # infinite fibonacci
+
+# pipeline pattern
