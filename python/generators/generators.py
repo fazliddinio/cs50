@@ -146,3 +146,5 @@ if __name__ == "__main__":
     with timer_context("Sleep test"):
         import time
         time.sleep(0.2)
+
+# memory study
