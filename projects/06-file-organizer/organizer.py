@@ -13,3 +13,5 @@ def get_category(ext):
     for cat, exts in FILE_TYPES.items():
         if ext.lower() in exts: return cat
     return "Other"
+
+# more file types
