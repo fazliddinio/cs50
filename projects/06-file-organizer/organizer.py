@@ -15,3 +15,5 @@ def get_category(ext):
     return "Other"
 
 # more file types
+
+# dry run
