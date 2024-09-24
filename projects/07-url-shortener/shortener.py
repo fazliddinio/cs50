@@ -10,3 +10,5 @@ def shorten(url):
     code = hashlib.md5(url.encode()).hexdigest()[:6]
     print(f"Short: https://short.url/{code}")
     return code
+
+# persistence
