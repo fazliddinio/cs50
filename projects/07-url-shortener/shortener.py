@@ -12,3 +12,5 @@ def shorten(url):
     return code
 
 # persistence
+
+# tracking
