@@ -7,3 +7,5 @@ def convert_headers(text):
         pattern = r"^#{" + str(i) + r"}\s+(.+)$"
         text = re.sub(pattern, f"<h{i}>\\1</h{i}>", text, flags=re.MULTILINE)
     return text
+
+# formatting
