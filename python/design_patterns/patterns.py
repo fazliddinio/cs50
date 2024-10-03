@@ -10,3 +10,5 @@ class Singleton:
         return cls._instance
 
 # factory
+
+# builder
