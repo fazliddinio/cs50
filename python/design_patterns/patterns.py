@@ -12,3 +12,5 @@ class Singleton:
 # factory
 
 # builder
+
+# adapter decorator
