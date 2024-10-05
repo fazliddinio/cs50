@@ -286,3 +286,5 @@ if __name__ == "__main__":
     print(cart.checkout(100))
     cart.set_strategy(PayPalPayment())
     print(cart.checkout(50))
+
+# pattern selection
