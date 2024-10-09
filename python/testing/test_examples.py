@@ -157,3 +157,5 @@ class TestCalculator:
 # Run with: pytest testing.py -v
 if __name__ == "__main__":
     pytest.main([__file__, "-v"])
+
+# best practices
