@@ -14,3 +14,5 @@ class Question:
 SAMPLE = [Question("What is type([])?", ["list","tuple","array","set"], 0, "[] creates a list")]
 
 # git linux
+
+# scoring
