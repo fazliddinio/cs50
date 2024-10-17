@@ -11,3 +11,5 @@ def load_data():
     with open(HABITS_FILE) as f: return json.load(f)
 
 # streaks
+
+# stats calendar
