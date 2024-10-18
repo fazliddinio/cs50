@@ -13,3 +13,5 @@ def load_data():
 # streaks
 
 # stats calendar
+
+# visualization
