@@ -13,3 +13,5 @@ class Calculator:
         self.history.append(f"{expr} = {result}")
         self.last_result = float(result)
         return result
+
+# interactive memory
