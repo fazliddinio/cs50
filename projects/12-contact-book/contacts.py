@@ -13,3 +13,5 @@ def add_contact(name, phone="", email=""):
     contacts = load_contacts()
     contacts.append({"name": name, "phone": phone, "email": email})
     print(f"Added: {name}")
+
+# search view
