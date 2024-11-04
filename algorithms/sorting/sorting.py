@@ -17,3 +17,5 @@ def bubble_sort(arr):
 # selection insertion
 
 # merge sort
+
+# quick sort
