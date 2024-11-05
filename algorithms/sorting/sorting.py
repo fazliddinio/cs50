@@ -175,3 +175,5 @@ if __name__ == "__main__":
     print(f"Quick:    {quick_sort(test_arr)}")
     print(f"Heap:     {heap_sort(test_arr)}")
     print(f"Counting: {counting_sort(test_arr)}")
+
+# benchmark
