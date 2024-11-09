@@ -205,3 +205,5 @@ if __name__ == "__main__":
     print(f"\nArray with duplicates: {arr2}")
     print(f"Leftmost 2:  {binary_search_leftmost(arr2, 2)}")
     print(f"Rightmost 2: {binary_search_rightmost(arr2, 2)}")
+
+# large test
