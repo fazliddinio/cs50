@@ -19,3 +19,5 @@ class LinkedList:
             while curr.next: curr = curr.next
             curr.next = new_node
         self._size += 1
+
+# methods
