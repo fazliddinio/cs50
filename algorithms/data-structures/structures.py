@@ -21,3 +21,5 @@ class LinkedList:
         self._size += 1
 
 # methods
+
+# stack queue
