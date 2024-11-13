@@ -23,3 +23,5 @@ class LinkedList:
 # methods
 
 # stack queue
+
+# BST
