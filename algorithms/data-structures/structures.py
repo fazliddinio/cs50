@@ -25,3 +25,5 @@ class LinkedList:
 # stack queue
 
 # BST
+
+# traversals
