@@ -8,3 +8,5 @@ def find_files(directory, pattern="*", recursive=True):
         if f.is_file(): yield f
 
 # size date filters
+
+# content duplicates
