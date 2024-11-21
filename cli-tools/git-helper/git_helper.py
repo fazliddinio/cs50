@@ -8,3 +8,5 @@ def run_git(args):
 def status_pretty():
     r = run_git(["status","-sb"])
     if r.returncode == 0: print(r.stdout)
+
+# log commit
