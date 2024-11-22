@@ -10,3 +10,5 @@ def status_pretty():
     if r.returncode == 0: print(r.stdout)
 
 # log commit
+
+# branch sync
