@@ -11,3 +11,5 @@ def load_data():
     with open(TASKS_FILE) as f: return json.load(f)
 
 # project task
+
+# priority status
