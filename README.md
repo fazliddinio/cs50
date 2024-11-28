@@ -1,14 +1,14 @@
-# CS50 + Python Learning
+# Learning Log
 
-My solutions for CS50 course and Python practice exercises.
+My personal collection of programming exercises, projects, and notes.
 
-## Structure
+## Contents
 
-- `cs50/` - CS50 problem sets (C, Python, SQL)
-- `python/` - Python learning exercises
-- `projects/` - Hands-on CLI projects
+- `cs50/` - CS50 problem sets
+- `python/` - Python practice and concepts
+- `projects/` - Small CLI tools I built
+- `algorithms/` - DSA practice
 
-## Projects
+## Tech
 
-1. Todo CLI
-2. Expense Tracker
+Python, C, SQL
