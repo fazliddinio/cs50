@@ -340,3 +340,5 @@ if __name__ == "__main__":
     print(f"'name' in map: {'name' in hm}")
 
 # unbalanced
+
+# type hints
