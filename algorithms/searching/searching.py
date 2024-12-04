@@ -207,3 +207,5 @@ if __name__ == "__main__":
     print(f"Rightmost 2: {binary_search_rightmost(arr2, 2)}")
 
 # large test
+
+# edge case
