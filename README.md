@@ -13,3 +13,4 @@ My personal collection of programming exercises, projects, and notes.
 ## Tech
 
 Python, C, SQL
+
